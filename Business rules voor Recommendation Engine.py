@@ -2,6 +2,13 @@ import psycopg2
 from psycopg2 import Error
 
 
+
+
+
+
+
+
+
 def connect():
     """This function is the connection with the postgres db"""
 
@@ -346,3 +353,5 @@ elif IDp == "59dce40ea56ac6edb4c37df5":
     print(sql_select("""SELECT prodid , product_name    
                      FROM profiels_type_browsers  
                      LiMIT 4 ;"""))
+
+disconnect()

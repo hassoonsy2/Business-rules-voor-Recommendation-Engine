@@ -17,16 +17,21 @@ Klas : gp-v1a
 
 * Most sold products 
 
+
 * Most viwed products 
 
 
 
-#2 Collaborative Filtering 
+#2. Collaborative Filtering 
 
- Voor Collaborative Filtering heb ik de profiels gefiltert naar types [BUYER , BOUNCER , BROWSERS] waarbij elke van die profiels wordt gekijken naar welke prodducten worden gekocht en welke was als een recommendation, 
+ Voor Collaborative Filtering heb ik de profiels naar types [BUYER , BOUNCER , BROWSERS] gefilterd waarbij elke van die profiels wordt gekijken naar welke prodducten worden gekocht en welke was als een recommendation, 
 
 Na het Filtering worden verschillende tabellen gemaakt voor verschillende recommendations opbases van profiels types.  
 
   
+*profiels types bouncer of browser 
 
+
+
+*profiels type buyer
   

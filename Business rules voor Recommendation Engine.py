@@ -92,6 +92,7 @@ def best_seller():
              name = row[1]
              cont = row[2]
              sql_execute("Insert into Best_seller(prodid ,name , Counter ) VALUES (%s , %s, %s)",[prodid,name,cont])
+         commit()
 
 
     except (Exception, psycopg2.DatabaseError) as error:
@@ -139,7 +140,8 @@ def most_viwed_products():
             name = row[1]
             cont = row[2]
             sql_execute("Insert into most_viwed_products(prodid ,name , Counter ) VALUES (%s , %s, %s)",[prodid,name,cont])
-            commit()
+
+        commit()
 
     except(Exception, psycopg2.DatabaseError) as error:
 
@@ -231,7 +233,8 @@ def profiels_types_bouncer_and_browser():
              prodid = row[2]
              name = row[3]
              sql_execute("Insert into profiels_type_boucer(profid ,segment , prodid, product_name) VALUES (%s , %s, %s, %s)",[profid,segment,prodid , name])
-             commit()
+
+         commit()
 
 
          for row0 in BROWSER :
@@ -241,7 +244,8 @@ def profiels_types_bouncer_and_browser():
              prodid1 = row0[2]
              name1 = row0[3]
              sql_execute("Insert into profiels_type_browsers(profid ,segment , prodid, product_name  ) VALUES (%s , %s, %s, %s)",[profid1,segment1,prodid1 , name1])
-             commit()
+
+         commit()
 
      except (Exception, psycopg2.DatabaseError) as error:
 

@@ -18,13 +18,15 @@ Klas : gp-v1a
 * Most sold products 
 
 
-![image](bestseller.png) 
+![bestseller](https://user-images.githubusercontent.com/71430169/111646807-41c9fa00-8802-11eb-9816-8761731cd605.PNG)
+ 
 
 
 * Most viwed products 
 
 
-![Screenshot](mostviwedpro.png) 
+![mostviwedpro](https://user-images.githubusercontent.com/71430169/111646882-527a7000-8802-11eb-9b2c-d559986e5140.PNG)
+
 
 
 
@@ -40,20 +42,22 @@ Na het Filtering worden verschillende tabellen gemaakt voor verschillende recomm
 
 BOUNCER :
 
-![image](bouncer.png) 
+![bouncer](https://user-images.githubusercontent.com/71430169/111646952-602ff580-8802-11eb-8ef9-89021a1ce5ad.PNG)
 
 
 
 
 BROWSER : 
 
+![browser](https://user-images.githubusercontent.com/71430169/111647002-6a51f400-8802-11eb-978d-72de128bbc68.PNG)
 
-![image](browser.png) 
+
+
 
 
 *profiels type buyer
 
 
-![image](buyer.png) 
+![buyer](https://user-images.githubusercontent.com/71430169/111647089-7a69d380-8802-11eb-949c-a29994258e4f.PNG)
 
   

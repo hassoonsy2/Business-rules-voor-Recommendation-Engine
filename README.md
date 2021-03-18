@@ -18,7 +18,7 @@ Klas : gp-v1a
 * Most sold products 
 
 
-![Screenshot](bestseller.png) 
+![image](bestseller.png) 
 
 
 * Most viwed products 
@@ -40,7 +40,7 @@ Na het Filtering worden verschillende tabellen gemaakt voor verschillende recomm
 
 BOUNCER :
 
-![Screenshot](bouncer.png) 
+![image](bouncer.png) 
 
 
 
@@ -48,12 +48,12 @@ BOUNCER :
 BROWSER : 
 
 
-![Screenshot](browser.png) 
+![image](browser.png) 
 
 
 *profiels type buyer
 
 
-![Screenshot](buyer.png) 
+![image](buyer.png) 
 
   
